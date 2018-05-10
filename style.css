@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+body {
+	margin: 0 auto;
+	max-width: 960px;
+	font-family: 'Titillium Web', sans-serif; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 1.5em;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+.name {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 550px;
+}
+
+nav ul li {
+    list-style: none;
+	float: right;
+	padding: 5px 15px;
+}
+
+.section2 {
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.profileimage {
+    width: 300px;
+    height: 400px;
+}
+
+.section3 {
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
